@@ -19,7 +19,6 @@ Built with **React.js**, **Node.js**, **Express.js**, **MongoDB**, and the **Goo
 - [Running the Complete Project](#-running-the-complete-project)
 - [Environment Variables](#-environment-variables)
 - [API & Database](#-api--database)
-- [Troubleshooting](#-troubleshooting)
 - [Future Scope](#-future-scope)
 - [Project Purpose](#-project-purpose)
 - [License](#-license)
