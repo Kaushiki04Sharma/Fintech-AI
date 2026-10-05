@@ -81,8 +81,6 @@ The project is built using React.js for the frontend, Node.js and Express.js for
 - Thunder Client
 
 ## Project Structure
-
-```text
 Fintech-AI/
 |
 |-- frontend/
