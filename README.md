@@ -5,7 +5,7 @@
 Built with **React.js**, **Node.js**, **Express.js**, **MongoDB**, and the **Google Gemini API**.
 
 🔗 **GitHub Repository:** [Kaushiki04Sharma/Fintech-AI](https://github.com/Kaushiki04Sharma/Fintech-AI)
-🌐 **Live Demo:** _Coming soon after deployment_
+
 
 ---
 
